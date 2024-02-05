@@ -30,7 +30,7 @@ This system allows users to perform real-time face recognition for attendance tr
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/ManavAlag01/RealTimeFaceRecognition-AttendanceSystem.git
     ```
 
 2. Navigate to the project folder:
